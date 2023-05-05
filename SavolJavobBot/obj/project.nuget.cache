@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDVzA8Rx2r7r2MJj7mIAxcQvoyiIGDTIt5n/sM9OJIpODSQGmcUNPQGZ3jKdJ1nce9zImVDVkokGgvaA1TsIXA==",
+  "success": true,
+  "projectFilePath": "D:\\C# list.tupl.dictionary\\SavolJavobBot\\SavolJavobBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\jfa.telegram.console\\1.0.2\\jfa.telegram.console.1.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
